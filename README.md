@@ -7,3 +7,4 @@ I’ve always been a great problem solver, and a technophile obsessed with the l
 Familiar with a variety of programming languages, including JavaScript, Python and React, but I’m always adding new skills to my repertoire. I’m also eager to meet other software engineers in the area, so feel free to connect!
 
 Web CV - https://rocky-sam.github.io
+CV card - https://rocky-sam.github.io/react-web-cv/
